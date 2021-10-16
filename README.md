@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @farhad-89
 - 👀 I’m interested in the application of data science in pipeline industry
 - 🌱 I’m currently learning data science tools
-- 💞️ I’m looking to collaborate on pipeline integrity+data science related projjects
+- 💞️ I’m looking to collaborate on pipeline integrity+data science related projects
 - 📫 How to reach me "https://www.linkedin.com/in/farhad-davaripour/
 
 <!---
