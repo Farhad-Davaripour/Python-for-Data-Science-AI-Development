@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2016/12/22/13/35/analytics-1925495_1280.png"width="500" height="300" />
+  <img src="https://cdn.pixabay.com/photo/2016/12/22/13/35/analytics-1925495_1280.png"width="200" height="200" />
 </p>
 
 ### Overview 
