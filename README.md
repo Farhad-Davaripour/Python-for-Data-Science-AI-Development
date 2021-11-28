@@ -1,4 +1,4 @@
-![image](DataSceinceImage.png)
+<center>![image](DataSceinceImage.png)<center>
 
 ### Overview
 _________________________________________________________________________________________________________________
