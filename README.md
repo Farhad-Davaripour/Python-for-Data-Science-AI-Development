@@ -3,7 +3,7 @@
   <img src="https://cdn.pixabay.com/photo/2016/12/22/13/35/analytics-1925495_1280.png"width="300" height="200" />
 </p>
 
-### Overview 
+### Overview
 In this repository a few hands on practice learning labs for data science are presented. These labs are built as a part of [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science?#courses). The IBM Data Science program consists of 10 online courses that will provide the most updated tools and skills including open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms. The skeleton of the labs is provided within the online courses. The list of hands-on labs are presented below:
 
 - _Analyzing the socioeconomic indicators in Chicago, 2008 – 2012 released by the [Chicago city portal](https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2?utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDB0201ENSkillsNetwork20127838-2021-01-01)._   
