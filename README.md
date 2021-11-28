@@ -7,8 +7,10 @@
 - _Manipulating car data using Pandas library_   
     ✓ Link to the notebook: [Link](https://github.com/Farhad-Davaripour/Python-for-Data-Science-AI-Development/blob/main/Data_Manipulation-Using_Pandas.ipynb)   
     ✓ Link to the dataset: [Link](https://www.kaggle.com/CooperUnion/cardataset/download)  
-
-
+- _Downloading an image from web_   
+    ✓ Link to the notebook: [Link](https://github.com/Farhad-Davaripour/Python-for-Data-Science-AI-Development/blob/main/Download_Image_From_Web.ipynb)   
+- _Extracting Google and Appgle finance data using yfinance library_   
+    ✓ Link to the notebook: [Link](https://github.com/Farhad-Davaripour/Python-for-Data-Science-AI-Development/blob/main/Extracting_Finance_Data_Using_yfinance_Library.ipynb)   
 
 
 ## About The Author
