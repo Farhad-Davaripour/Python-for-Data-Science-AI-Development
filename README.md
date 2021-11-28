@@ -11,6 +11,10 @@
     ✓ Link to the notebook: [Link](https://github.com/Farhad-Davaripour/Python-for-Data-Science-AI-Development/blob/main/Download_Image_From_Web.ipynb)   
 - _Extracting Google and Appgle finance data using yfinance library_   
     ✓ Link to the notebook: [Link](https://github.com/Farhad-Davaripour/Python-for-Data-Science-AI-Development/blob/main/Extracting_Finance_Data_Using_yfinance_Library.ipynb)   
+- _Translating a text from English to French and then translate it back to English_   
+    ✓ Link to the notebook: [Link](https://github.com/Farhad-Davaripour/Python-for-Data-Science-AI-Development/blob/main/IBMlanguageTranslator-93/IBMlanguageTranslator-93.ipynb)   
+    ✓ Link to the text file: [Link](https://github.com/Farhad-Davaripour/Python-for-Data-Science-AI-Development/blob/main/IBMlanguageTranslator-93/TextFile.txt)  
+
 
 
 ## About The Author
