@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/djhbhy16x/image/upload/v1604500578/10-08_How_to_build_a_data_scientist_portfolio_cjwues.png"width="20" height="20" />
+  <img src="https://res.cloudinary.com/djhbhy16x/image/upload/v1604500578/10-08_How_to_build_a_data_scientist_portfolio_cjwues.png"width="100" height="100" />
 </p>
 
 ### Overview
