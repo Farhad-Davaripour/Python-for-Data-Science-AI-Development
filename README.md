@@ -1,4 +1,6 @@
-![image](DataSceinceImage.png)<centre>
+<p align="center">
+  <img src="DataSceinceImage.png" />
+</p>
 
 ### Overview
 _________________________________________________________________________________________________________________
