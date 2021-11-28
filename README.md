@@ -20,7 +20,10 @@
 - _Submit a query in SQL using python_   
     ✓ Link to the notebook: [Link](https://github.com/Farhad-Davaripour/Python-for-Data-Science-AI-Development/blob/main/SQL_Using_Python/SQL_Using_Python.ipynb)   
     ✓ Link to the text file using Jupyter magic commands: [Link](https://github.com/Farhad-Davaripour/Python-for-Data-Science-AI-Development/blob/main/SQL_Using_Python/SQL_Using_Python_AND_Jupyter_Magic_Command.ipynb)     
-
+- _Transcribe an mp3 file using IBM_SpeechToText-n1_   
+    ✓ Link to the notebook: [Link](https://github.com/Farhad-Davaripour/Python-for-Data-Science-AI-Development/blob/main/Transcribe_mp3-Using_IBM_SpeechToText-n1.ipynb)  
+- _An example of webscraping_   
+    ✓ Link to the notebook: [Link](https://github.com/Farhad-Davaripour/Python-for-Data-Science-AI-Development/blob/main/Webscraping.ipynb)   
 
 
 
