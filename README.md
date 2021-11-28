@@ -15,7 +15,7 @@
 
 ## About The Author
 
-![image](MyImage.jpg)
+![image](MyImage_GitHub.jpg)
 
 
 - Farhad Davaripour is a finite element specialist with 3 years of experience working in research and development roles. He has a knack for problem-solving and (recently) found my passion in data science (I am in training).
