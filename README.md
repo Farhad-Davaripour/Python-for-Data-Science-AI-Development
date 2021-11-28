@@ -16,5 +16,4 @@
 - Farhad Davaripour is a finite element specialist with 3 years of experience working in research and development roles. He has a knack for problem-solving and (recently) found my passion in data science (I am in training).
 - Currently He is taking the data science fundamental courses as a part of IBM Data Science Professional Certificate. 
 
-- Connect with Farhad on:
-  - :office: [LinkedIn](https://www.linkedin.com/in/farhad-davaripour/)
+- Connect with Farhad on [LinkedIn](https://www.linkedin.com/in/farhad-davaripour/)
