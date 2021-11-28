@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://res.cloudinary.com/djhbhy16x/image/upload/v1604500578/10-08_How_to_build_a_data_scientist_portfolio_cjwues.png"width="250" height="250" />
+### Overview <p align="center">
+  <img src="https://res.cloudinary.com/djhbhy16x/image/upload/v1604500578/10-08_How_to_build_a_data_scientist_portfolio_cjwues.png"width="400" height="400" />
 </p>
 
-### Overview
 _________________________________________________________________________________________________________________
 
 In this repository a few hands on practice learning labs for data science are presented. These labs are built as a part of [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science?#courses). The IBM Data Science program consists of 10 online courses that will provide the most updated tools and skills including open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms. The skeleton of the labs is provided within the online courses. The list of hands-on labs are presented below:
