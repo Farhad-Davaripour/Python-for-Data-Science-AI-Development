@@ -16,7 +16,11 @@
     ✓ Link to the text file: [Link](https://github.com/Farhad-Davaripour/Python-for-Data-Science-AI-Development/blob/main/IBMlanguageTranslator-93/TextFile.txt)  
 - _Writing to a file using python_   
     ✓ Link to the notebook using built-in functions in python: [Link](https://github.com/Farhad-Davaripour/Python-for-Data-Science-AI-Development/blob/main/Write_To_File/Write_To_File.ipynb)   
-    ✓ Link to the text file using Pandas library: [Link](https://github.com/Farhad-Davaripour/Python-for-Data-Science-AI-Development/blob/main/Write_To_File/WriteToFile_UsingPandas.ipynb)  
+    ✓ Link to the text file using Pandas library: [Link](https://github.com/Farhad-Davaripour/Python-for-Data-Science-AI-Development/blob/main/Write_To_File/WriteToFile_UsingPandas.ipynb)
+- _Submit a query in SQL using python_   
+    ✓ Link to the notebook: [Link](https://github.com/Farhad-Davaripour/Python-for-Data-Science-AI-Development/blob/main/SQL_Using_Python/SQL_Using_Python.ipynb)   
+    ✓ Link to the text file using Jupyter magic commands: [Link](https://github.com/Farhad-Davaripour/Python-for-Data-Science-AI-Development/blob/main/SQL_Using_Python/SQL_Using_Python_AND_Jupyter_Magic_Command.ipynb)     
+
 
 
 
